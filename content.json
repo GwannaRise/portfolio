@@ -1,0 +1,515 @@
+{
+  "photo": "assets/img/profile.jpg",
+  "ko": {
+    "meta": { "title": "이관우 | Portfolio", "description": "학생 창업으로 직접 고객을 찾고, 설득하고, 계약을 따낸 스냅링크 대표 이관우의 포트폴리오." },
+    "ui": {
+      "open": "자세히",
+      "close": "접기",
+      "tiers": { "grand": "대상", "award": "입상", "selected": "선발·지원", "program": "교육·활동" },
+      "navLabel": "목차",
+      "photoAlt": "이관우 증명사진",
+      "footer": "이 사이트는 AI 도구로 직접 설계하고 만들었습니다."
+    },
+    "hero": {
+      "name": "이관우",
+      "nameAlt": "Gwanwoo Lee",
+      "tagline": "학생 창업으로 직접 고객을 찾고, 설득하고, 계약을 따냈습니다.",
+      "sub": "사진작가 매칭 플랫폼 스냅링크 대표 · B2B 행사촬영 10회 계약 · 앱 출시 · 창업경진대회 대상 4회",
+      "contacts": [
+        { "label": "albertgwleebiz@gmail.com", "href": "mailto:albertgwleebiz@gmail.com" },
+        { "label": "010-8934-6013", "href": "tel:010-8934-6013" },
+        { "label": "경기 · 서울 전 지역 근무 가능" },
+        { "label": "한국외국어대학교 Global Business & Technology · 2027.08 졸업 예정" }
+      ],
+      "links": []
+    },
+    "stats": [
+      { "value": "7회", "label": "창업경진대회 입상", "note": "대상 4회 포함" },
+      { "value": "10회", "label": "B2B 행사촬영 계약", "note": "누적 약 624만 원" },
+      { "value": "240명", "label": "앱 가입자", "note": "App Store · Google Play 출시" },
+      { "value": "4.2", "label": "학점 / 4.5", "note": "100점 환산 93.3" }
+    ],
+    "sections": {
+      "about": "소개",
+      "education": "학력",
+      "experience": "경력",
+      "projects": "프로젝트",
+      "awards": "수상 및 선발",
+      "certs": "자격·면허",
+      "skills": "스킬·언어",
+      "story": "걸어온 길",
+      "timeline": "타임라인"
+    },
+    "about": [
+      "사진작가 매칭 플랫폼 스냅링크를 창업해 1년 반 동안 대표로 운영했습니다. 작가 50명을 모아 서비스를 검증하고, 개발자·디자이너와 협업해 앱을 양대 스토어에 출시했으며, 기업 행사촬영 영업을 파일럿 2건에서 시작해 총 10회, 누적 약 624만 원의 계약으로 키웠습니다. 제안서와 계약서 작성, 단가 협상, 세금계산서 발행과 정산까지 직접 했습니다.",
+      "방식은 단순했습니다. 작게 먼저 팔아서 검증하고, 과정을 투명하게 보여줘서 신뢰를 얻고, 단순하거나 반복되는 일은 AI를 활용하고 자동화했습니다. 같은 방식으로 2주 만에 기획한 오프라인 행사에 유료 참가자 57명을 모았고, 사업계획서와 피칭을 직접 맡아 창업경진대회에서 대상 4회를 포함해 7차례 입상했습니다.",
+      "이 경험을 사업개발·영업 직무에서 회사의 매출로 증명하고 싶습니다."
+    ],
+    "education": {
+      "rows": [
+        { "period": "2025.03 – 2027.08 (졸업 예정)", "school": "한국외국어대학교", "major": "주전공 Global Business & Technology (경영학사) · 부전공 국제통상학", "note": "편입 · 학점 4.2 / 4.5" },
+        { "period": "2024.03", "school": "학점은행제", "major": "경영 (전문학사)", "note": "군 복무 중 이수" },
+        { "period": "2021.03 – 2022.02", "school": "한국관광대학교", "major": "호텔조리과", "note": "중퇴 · 진로 전환" }
+      ],
+      "detailsTitle": "학력 상세",
+      "details": [
+        "영어 100% 편입 전형 합격 — 전역 직후 313일간 주 60시간 이상 학습",
+        "첫 학기 평점 4.08로 국제통상학과 이중전공 선발, 이후 누적 4.2 유지 · 졸업 학기에 부전공으로 전환",
+        "2026년 1학기 휴학 — 스냅링크 운영과 AURA 프로젝트에 집중"
+      ]
+    },
+    "experience": [
+      {
+        "id": "snaplink",
+        "name": "스냅링크 (Snaplink)",
+        "org": "모먼트 스튜디오 · 개인사업자",
+        "role": "대표 (CEO) · 서비스 기획 총괄",
+        "period": "2025.05 – 2026.12",
+        "summary": "사진작가와 고객을 연결하는 스냅사진 매칭 앱, 그리고 플랫폼 작가 네트워크로 운영한 기업 행사촬영 에이전시",
+        "logo": "assets/img/snaplink-logo.svg",
+        "wordmark": "assets/img/snaplink-wordmark.svg",
+        "highlights": [
+          "서비스 기획 총괄 — 개발자·디자이너와 협업해 MVP를 앱으로 전환하고 2026.02 App Store·Google Play에 동시 출시 (가입자 240명, 활동 작가 38명)",
+          "기업 행사촬영 영업 — 기업·단체별 맞춤 제안서로 직접 영업해 코엑스 대형 행사의 사이드 촬영을 수주. 파일럿 2건으로 검증한 뒤 해당 행사 시행사와 4회차 묶음 계약, 4회차 재계약까지 이어 총 10회·누적 약 624만 원. 재계약 때 회당 단가를 60만 원에서 75만 원으로 올려 받음",
+          "계약·재무 — 클라이언트와 작가 양쪽의 계약서를 직접 작성, 사업자 등록(2026.07) 후 세금계산서 발행·부가세 신고·작가 정산을 세무사 없이 처리",
+          "작가 38명 네트워크와 4인 팀 운영 — 팀이 두 차례 바뀌는 고비를 넘기고 현 팀을 1년 이상 유지",
+          "창업경진대회·프로그램 10개 참가, 대상 4회 포함 입상 7회 · 한국외대 학생창업팀 선정, HUFS startup platform 입주"
+        ],
+        "links": [
+          { "label": "App Store", "href": "https://apps.apple.com/kr/app/id6756947156" },
+          { "label": "Google Play", "href": "https://play.google.com/store/apps/details?id=com.revede.snaplink" },
+          { "label": "snaplink.run", "href": "https://www.snaplink.run" }
+        ],
+        "facts": [
+          ["상호", "모먼트 스튜디오 (Moment studio)"],
+          ["사업자 등록", "2026.07.20 · 개인사업자"],
+          ["앱 출시", "2026.02.05 · App Store, Google Play"],
+          ["가입자 · 작가", "240명 · 활동 작가 38명"],
+          ["B2B 행사촬영", "10회 · 계약 4건 · 누적 약 624만 원 (VAT 포함)"],
+          ["입주", "HUFS startup platform (한국외대 학생창업팀)"]
+        ],
+        "images": [
+          { "src": "assets/img/app-home.jpg", "caption": "앱 홈 — AI 작가 검색과 행사촬영 배너" },
+          { "src": "assets/img/app-search.jpg", "caption": "작가 검색 — 촬영 유형·지역·가격·성별 필터" },
+          { "src": "assets/img/app-profile.jpg", "caption": "작가 프로필 — 상품·포트폴리오·예약" },
+          { "src": "assets/img/app-booking-1.jpg", "caption": "예약 — 날짜·시간 선택" },
+          { "src": "assets/img/app-booking-2.jpg", "caption": "예약 — 지역·촬영 항목 선택" },
+          { "src": "assets/img/snaplink-card.jpg", "caption": "스냅링크 명함" }
+        ],
+        "blocks": [
+          {
+            "title": "시작한 이유",
+            "items": [
+              "고객은 인스타그램 DM 말고는 작가를 찾고 비교하고 예약할 창구가 없고, 작가도 개인 SNS 외에는 고객을 만날 채널이 없는 상황",
+              "두 쪽을 잇는 매칭·예약 앱을 만들고, 작가 네트워크를 바탕으로 기업 행사촬영을 중개하는 에이전시를 함께 운영"
+            ]
+          },
+          {
+            "title": "두 개의 사업",
+            "items": [
+              "앱 — 웹·커뮤니티 형태의 MVP에서 작가 50명을 먼저 모은 뒤, 개발자·디자이너에게 기획안을 전달하고 협업하며 앱으로 전환. 이용약관과 개인정보처리방침을 작성하고 양대 스토어 출시까지 진행",
+              "에이전시 — 기업·단체의 행사촬영 문의를 받아 조건을 정리하고 작가를 매칭, 클라이언트와 작가 양쪽과 계약. 클라이언트에게는 작가 근태 관리와 결과물 검수를 제공"
+            ]
+          }
+        ],
+        "table": {
+          "title": "행사촬영 계약 히스토리",
+          "head": ["단계", "내용", "금액", "비고"],
+          "rows": [
+            ["파일럿 1", "행사촬영 1건", "15만 원", "리뷰·피드백 데이터 제공을 조건으로 3만 원 할인"],
+            ["파일럿 2", "행사촬영 1건", "14.5만 원", "마진 최소화, 서비스 검증"],
+            ["사업자 등록", "모먼트 스튜디오 · 2026.07", "–", "세금계산서 발행 체계 구축"],
+            ["본계약 1", "3박 4일 × 4회차", "264만 원 (VAT 포함, 회당 60만 원)", "순이익 약 40만 원"],
+            ["본계약 2", "추가 4회차 재계약", "330만 원 (VAT 포함, 회당 75만 원)", "단가 25% 인상 · 순이익 약 60만 원 · 진행 중"]
+          ]
+        },
+        "roles": [
+          { "title": "기획 · PM", "items": ["서비스 컨셉과 수익 모델 설계, 기능 우선순위와 일정 관리", "화면 설계와 기획안 작성, 개발자·디자이너와 협업해 출시까지 진행", "이용약관·개인정보처리방침 작성, 양대 스토어 등록"] },
+          { "title": "영업 · 계약", "items": ["기업·단체별 맞춤 제안서 제작, 조건 협의, 계약서 직접 작성", "제안서 영업으로 코엑스 대형 행사의 사이드 촬영을 수주, 행사 시행사와 4회차 계약 후 4회차 재계약", "클라이언트–작가 양방향 계약 구조 설계 (파일럿 2건 + 4회차 계약 2건, 총 10회)", "재계약 시 촬영 품질을 근거로 회당 단가 60만 원 → 75만 원 인상"] },
+          { "title": "운영 · HR", "items": ["작가 38명 네트워크 관리, 행사별 매칭과 근태·품질 관리", "팀원 채용과 동기부여 — 팀이 두 차례 바뀌는 고비를 넘기고 현 팀을 1년 이상 유지"] },
+          { "title": "재무 · 세무", "items": ["세금계산서 발행, 부가가치세 신고, 작가 정산을 직접 수행", "대회 상금과 창업지원금으로 외부 자본 없이 운영"] }
+        ],
+        "retro": {
+          "title": "돌아보며",
+          "lead": "개인의 불편에서 출발한 아이템은 시장이 작을 수 있다는 것을 배운 프로젝트",
+          "items": [
+            "스냅사진 시장 규모가 작아 마케팅 대비 이용자 증가가 제한적. 에이전시는 수익은 났지만 수요가 불규칙",
+            "2026년 12월까지 운영 후 정리 결정. 다음 아이템은 시장 크기와 지불 의사를 먼저 검증하고 시작",
+            "기획·영업·계약·세무·팀 운영까지 사업의 전 과정을 직접 경험한 것이 가장 큰 자산"
+          ]
+        }
+      }
+    ],
+    "projects": [
+      {
+        "id": "aura",
+        "name": "AURA",
+        "subtitle": "내향인을 위한 오프라인 네트워킹 파티",
+        "type": "사이드 프로젝트",
+        "role": "공동 기획 · 운영 총괄",
+        "period": "2026.05 – 2026.06",
+        "result": "2주 만에 기획한 유료 오프라인 행사 2회 · 참가자 57명 · 2회차 티켓 단가 약 2배",
+        "logo": "assets/img/aura-logo.jpg",
+        "images": [{ "src": "assets/img/aura-event.jpg", "caption": "행사 현장 — 참가자 동의 조건에 따라 모자이크 처리" }],
+        "quote": "\"이름도 없는 애들이 여는 파티를 누가 돈 주고 가냐\"는 말을 듣고, 2주 만에 28명의 유료 참가자를 모았습니다.",
+        "table": {
+          "head": ["구분", "1회차", "2회차"],
+          "rows": [
+            ["일시", "2026.05.28", "2026.06.25"],
+            ["장소", "용인 모현읍", "서울 회기"],
+            ["참가자", "28명", "29명"],
+            ["티켓", "25,000원", "49,000원 (1부 33,000원 + 2부 16,000원)"]
+          ]
+        },
+        "blocks": [
+          { "title": "기획 배경", "items": ["오프라인 비즈니스를 직접 시험해 보기 위해 두 번의 행사로 기간을 정해 두고 시작한 사이드 프로젝트", "외향적인 사람을 전제로 한 기존 네트워킹 모임과 달리, 내향인이 편하게 올 수 있는 구조로 설계"] },
+          { "title": "문제와 대응", "items": ["사업자도 소속도 없는 주최자라 홍보 초기에 \"사이비·다단계 아니냐\"는 반응, 주변에서도 \"아무도 안 올 것\"이라는 만류", "숨기는 대신 전부 공개 — 인스타그램에 물품 발주와 준비 과정을 그대로 올리고 들어오는 질문에 하나하나 답변", "대관·기획·발주·마케팅을 2주 안에 마치고 첫 행사 개최"] },
+          { "title": "결과", "items": ["1회차 28명 참가, 물품 초기 구매로 손익은 0에 근접", "2회차 티켓 단가 약 2배에 29명 참가, 70% 이상이 2부까지 잔류 · 마무리 비용 제외 시 순이익 약 10만 원", "계획한 두 번의 행사 후 종료"] },
+          { "title": "맡은 일", "items": ["전체 기획과 회의 주관, 장소 대관과 계약서 작성, 물품 준비", "인스타그램 마케팅, 참가자 응대, 정산, 행사 당일 진행", "AI 코딩 도구로 랜딩 페이지 제작"] }
+        ]
+      },
+      {
+        "id": "samchully",
+        "name": "삼천리EV 한국 시장 침투 및 신뢰 구축 전략",
+        "subtitle": "BYD 공식 딜러사 · 마케팅전략실습 산학 프로젝트",
+        "type": "산학 프로젝트",
+        "role": "팀장 (4인 팀)",
+        "period": "2025.09 – 2025.12",
+        "result": "여의도 본사에서 본부장·마케팅팀 앞에서 최종 전략 발표 · 과목 A+",
+        "logo": null,
+        "images": [
+          { "src": "assets/img/samchully-cover.jpg", "caption": "최종 발표자료 표지" },
+          { "src": "assets/img/samchully-strategy.jpg", "caption": "진단 — BYD를 막는 네 개의 벽" }
+        ],
+        "quote": null,
+        "table": {
+          "head": ["항목", "내용"],
+          "rows": [
+            ["과목", "마케팅전략실습 (한국외대 GBT)"],
+            ["파트너 기업", "삼천리EV — BYD 전기차 공식 딜러사"],
+            ["역할", "팀장 (4인 팀)"],
+            ["최종 발표", "2025.12.19 삼천리EV 여의도 본사 · 본부장 및 마케팅팀"],
+            ["평가", "A+"]
+          ]
+        },
+        "blocks": [
+          { "title": "과제", "items": ["삼천리EV가 제공한 실제 판매·고객 데이터를 바탕으로, 한국 시장에서 BYD 전기차의 판매를 늘릴 마케팅 전략을 한 학기 동안 수립"] },
+          { "title": "제안한 전략", "items": ["진단 — 한국 소비자는 '가치'보다 '계산'을 먼저 하고, BYD의 문제는 스펙이 아니라 증거라는 것. 구매를 막는 벽을 무경험·불안감·비가시성·불확실성 네 가지로 정리", "방향 — 차를 파는 회사가 아니라 불신을 신뢰로 바꾸는 회사가 되자는 '신뢰 전략'", "실행 — 시승 패러다임 전환, 팝업, 택시 에너지 쉼터(B2B), '세상에서 가장 큰 보조배터리' BTL, 잔존가치 보증의 다섯 가지 전략과 2026년 분기별 실행 로드맵"] },
+          { "title": "결과", "items": ["여의도 본사에서 본부장과 마케팅팀 매니저 앞에서 직접 발표", "마케팅전략실습 A+"] }
+        ]
+      }
+    ],
+    "awards": {
+      "lead": "대상 4회 · 입상 2회 · 선발·지원 2회 · 교육·활동 4회. 항목을 누르면 상세가 펼쳐집니다.",
+      "items": [
+        { "tier": "grand", "title": "PICK YOUR IDEA 대학연합 창업경진대회 IR 피칭 대상", "host": "한국외대 창업동아리 MOVE / 서울 AI 허브", "date": "2025.07.03", "project": "스냅링크", "image": "assets/img/pyi-award.jpg", "desc": "" },
+        { "tier": "grand", "title": "일촉즉발 창업경진대회 대상 · 특별상", "host": "한국외대 MOVE · 경희대 FLIP · 서울시립대 토끼발 창업동아리 연합", "date": "2025.12.06", "project": "스냅링크", "image": null, "images": [{ "src": "assets/img/ilchok-pitch.jpg", "caption": "피칭" }, { "src": "assets/img/ilchok-award.jpg", "caption": "대상 · 특별상 시상" }], "desc": "대상·특별상 동시 수상 · 서울 AI 허브" },
+        { "tier": "grand", "title": "G-RISE 창업 아이디어 경진대회 대상", "host": "한국외국어대학교 / G-RISE 사업단", "date": "2025.12.05", "project": "린(Lean) 스마트 캠퍼스", "image": null, "images": [{ "src": "assets/img/grise-idea-award.jpg", "caption": "대상 시상" }, { "src": "assets/img/lean-campus-cover.jpg", "caption": "발표자료 표지" }], "desc": "주제 'AI 기반 캠퍼스 혁신 아이디어' · 대회용으로 별도 준비한 아이템 — 가을 명수당 방문객 폭증으로 인한 캠퍼스 주변 교통 마비를 기존 Wi-Fi·주차 데이터 기반 혼잡 예측과 변동 주차요금으로 완화하는 제안" },
+        { "tier": "grand", "title": "SYNC 서울 8개 대학 연합 아이디어톤 플랫폼 트랙 대상", "host": "한국외대 MOVE 주최 · 숭실대 SYNERGY 공동주최", "date": "2026.04.04", "project": "TIO", "image": null, "images": [{ "src": "assets/img/sync-pitch.jpg", "caption": "TIO 피칭" }, { "src": "assets/img/sync-award.jpg", "caption": "플랫폼 트랙 대상 시상" }, { "src": "assets/img/tio-cover.jpg", "caption": "발표자료 표지" }], "desc": "참가 대학: 강남대·건국대·경희대·동국대·서강대·서울시립대·숭실대·한국외대 · 타 대학 학생들과 4인 팀 구성 · 출품작 TIO — 베트남 채용시장용 검증형 AI 이력서 플랫폼" },
+        { "tier": "award", "title": "Odyssey-X 글로벌 IR 피칭 Second Prize", "host": "Rakuten Symphony / 서울시립대학교", "date": "2026.05 – 06", "project": "스냅링크", "image": null, "images": [{ "src": "assets/img/odyssey-pitch.jpg", "caption": "데모데이 피칭" }, { "src": "assets/img/odyssey-award.jpg", "caption": "Second Prize 시상" }], "desc": "2개월 창업육성 과정 이수 후 최종 데모데이 수상 · 서울시립대 창업지원센터 단장상" },
+        { "tier": "award", "title": "G-RISE × 경상대학 창업 비즈니스 모델 경진대회 최우수상", "host": "한국외국어대학교 / G-RISE 사업단", "date": "2025.11.20", "project": "스냅링크", "image": null, "images": [{ "src": "assets/img/grise-bm-pitch.jpg", "caption": "본선 피칭" }, { "src": "assets/img/grise-bm-award.jpg", "caption": "최우수상 시상" }], "desc": "" },
+        { "tier": "selected", "title": "한국외대 학생창업팀 선정 · HUFS startup platform 입주", "host": "한국외대 글로벌창업지원단", "date": "2026.02", "project": "스냅링크", "image": null, "desc": "" },
+        { "tier": "selected", "title": "서울 AI 영포럼 선정 · 지원금 150만 원", "host": "서울 AI 허브", "date": "2025.11.14", "project": "스냅링크", "image": null, "images": [{ "src": "assets/img/aiforum-ir.jpg", "caption": "IR 피칭" }, { "src": "assets/img/aiforum-banner.jpg", "caption": "배너 피칭" }], "desc": "배너 피칭 · IR 피칭 진행" },
+        { "tier": "program", "title": "2025 하나 소셜벤처 유니버시티 수료", "host": "하나금융그룹 / 고용노동부", "date": "2025.08.27", "project": "스냅링크", "image": null, "desc": "" },
+        { "tier": "program", "title": "SAY Track 창업교육 수료", "host": "서울 AI 허브", "date": "2025.08.21", "project": "스냅링크", "image": null, "desc": "" },
+        { "tier": "program", "title": "스타트업 영 그라운드 창업교육 수료", "host": "㈜어치브모먼트 / MOVE", "date": "2025.07.24", "project": "스냅링크", "image": null, "desc": "" },
+        { "tier": "program", "title": "한국외대 창업동아리 MOVE 수료", "host": "한국외국어대학교", "date": "2025.03 – 12", "project": "스냅링크", "image": "assets/img/move-certificate.jpg", "desc": "Team REVEDE로 활동 · 스냅링크 팀의 출발점" }
+      ]
+    },
+    "certs": [
+      { "name": "조리·제과·제빵 기능사 5종", "date": "2020", "note": "한식·양식·중식조리기능사, 제과기능사, 제빵기능사 (한국산업인력공단)" },
+      { "name": "운전면허 1종 대형", "date": "", "note": "영업 외근 운행 가능" }
+    ],
+    "skills": [
+      { "title": "비즈니스", "items": ["B2B 영업 · 제안 · 계약서 작성", "단가 협상 · 재계약", "사업계획서 · IR 피칭", "서비스 기획 · PM", "채용 · 팀 운영 (HR)", "세무 · 정산 · 손익 관리"] },
+      { "title": "도구", "items": ["AI 활용 — 바이브코딩, 프롬프트 설계, 업무 자동화", "MS Office · Notion", "Instagram 마케팅"] },
+      { "title": "언어", "items": ["한국어 — 모국어", "영어 — 일상 회화 가능, 원어 강의 수강, 영어 100% 편입 전형 합격 · OPIc 준비 중"] }
+    ],
+    "skillProofs": [
+      {
+        "title": "AI 활용 사례 1 — 스냅링크 이미지 구도 보정 AI 툴 기획 (2026)",
+        "blocks": [
+          { "title": "기획", "items": ["작가가 올린 사진의 구도를 자동으로 다듬어 주는 기능을 자체 모델 개발 없이 구현하기 위해, 나노바나나(Gemini 이미지 모델)와 에이전트 구조로 설계", "1단계 사진을 단계별로 살펴 미학적 결함을 분석하는 프롬프트 → 2단계 수정이 필요한 부분을 정확히 짚어내는 프롬프트 → 3단계 수정 사항을 반영해 구도를 자연스럽게 보정", "생성된 영역이 어색하거나 원본과 달라지면 필요한 단계로 되돌아가는 루프 구조"] },
+          { "title": "결과", "items": ["아이디어와 기획을 맡고 개발자가 구현. 동작하는 툴까지 만들었으나 API 비용과 처리 시간 때문에 정식 기능으로는 넣지 않음"] }
+        ]
+      },
+      {
+        "title": "AI 활용 사례 2 — 영어학원 수업자료 제작 자동화 (2025.10 – 2026.01)",
+        "blocks": [
+          { "title": "상황", "items": ["중학생 대상 영어학원 조교로 수업자료 제작, 성적표, 재시험 관리 담당", "매일 문제집을 사진으로 찍어 OCR을 돌리고, 결과를 하나하나 복사해 붙여 넣는 반복 작업이 가장 큰 시간을 차지"] },
+          { "title": "해결", "items": ["Microsoft 365에 AI 기능이 없던 시기라 채팅형 LLM용 프롬프트를 직접 설계. 사진을 올리면 원하는 형식으로 필요한 내용만 추출하게 해서 OCR → 복사 → 정리 과정을 한 단계로 축소", "프롬프트 가이드라인을 문서로 만들어 다른 조교들과 공유, 개인 효율화를 팀의 업무 방식으로 확장"] }
+        ]
+      }
+    ],
+    "story": [
+      { "title": "요리로 시작한 10대", "items": ["고1 말 요리 시작 · 2020년 한 해에 기능사 5종 취득", "식당·카페 현장에서 손님과 동료를 상대하며 일하는 법을 몸으로 익힌 시기"] },
+      { "title": "군 복무 중 진로 방향 설정 — 2022.05 – 2023.11", "items": ["복무 중 독서를 이어가며, 정해진 레시피대로 만드는 일보다 스스로 기획하고 결과를 확인하는 일을 하고 싶다는 방향이 분명해짐", "사이버지식정보방에서 학점은행제 경영 전문학사 이수 · 2023 육군 창업경진대회 참가를 계기로 창업에 관심"] },
+      { "title": "영어 7등급에서 편입까지 — 313일", "items": ["전역 직후 기본 문법도 모르는 상태에서 영어 100% 편입 전형에 도전", "매일 6시간 이상, 주 60시간 이상을 313일간 지속해 한국외국어대학교 Global Business & Technology 학부 합격"] }
+    ],
+    "timeline": [
+      ["2020", "조리·제과·제빵 기능사 5종 취득"],
+      ["2021.03 – 2022.02", "한국관광대학교 호텔조리과"],
+      ["2022.05 – 2023.11", "육군 복무 · 학점은행제 경영 전문학사 · 육군 창업경진대회 참가"],
+      ["2023.12 – 2025.02", "편입 준비 313일"],
+      ["2025.03", "한국외국어대학교 GBT 편입 · 창업동아리 MOVE"],
+      ["2025.05", "스냅링크 시작"],
+      ["2025.07 – 12", "PICK YOUR IDEA 대상 · G-RISE BM 경진대회 최우수상 · G-RISE 아이디어 경진대회 대상 · 일촉즉발 대상"],
+      ["2025.09 – 12", "삼천리EV 마케팅 전략 프로젝트 팀장"],
+      ["2026.02", "스냅링크 앱 출시 · 한국외대 학생창업팀 선정, HUFS startup platform 입주"],
+      ["2026.04 – 06", "SYNC 대상 · Odyssey-X Second Prize · AURA 2회 개최"],
+      ["2026.07", "모먼트 스튜디오 사업자 등록 · 행사촬영 본계약"],
+      ["2026.12", "스냅링크 운영 종료"],
+      ["2027.08", "졸업 예정"]
+    ]
+  },
+  "en": {
+    "meta": { "title": "Gwanwoo Lee | Portfolio", "description": "As a student founder, I found the customers, earned their trust and closed the contracts myself. Portfolio of Gwanwoo Lee, founder of Snaplink." },
+    "ui": {
+      "open": "Details",
+      "close": "Close",
+      "tiers": { "grand": "Grand Prize", "award": "Award", "selected": "Selected", "program": "Program" },
+      "navLabel": "Contents",
+      "photoAlt": "Portrait of Gwanwoo Lee",
+      "footer": "Designed and built by me with AI tools."
+    },
+    "hero": {
+      "name": "Gwanwoo Lee",
+      "nameAlt": "이관우",
+      "tagline": "As a student founder, I found the customers, earned their trust and closed the contracts myself.",
+      "sub": "Founder of Snaplink, a photographer-matching platform · 10 B2B event shoots under contract · app launched · 4 Grand Prizes",
+      "contacts": [
+        { "label": "albertgwleebiz@gmail.com", "href": "mailto:albertgwleebiz@gmail.com" },
+        { "label": "+82 10-8934-6013", "href": "tel:+821089346013" },
+        { "label": "Gyeonggi / Seoul, Korea — open to any location in the area" },
+        { "label": "Hankuk University of Foreign Studies, Global Business & Technology · expected Aug 2027" }
+      ],
+      "links": []
+    },
+    "stats": [
+      { "value": "7", "label": "Startup competition awards", "note": "incl. 4 Grand Prizes" },
+      { "value": "10", "label": "B2B event shoots contracted", "note": "~6.2M KRW total" },
+      { "value": "240", "label": "App users", "note": "App Store · Google Play" },
+      { "value": "4.2", "label": "GPA / 4.5", "note": "93.3 on a 100-point scale" }
+    ],
+    "sections": {
+      "about": "About",
+      "education": "Education",
+      "experience": "Experience",
+      "projects": "Projects",
+      "awards": "Awards",
+      "certs": "Certifications",
+      "skills": "Skills",
+      "story": "Background",
+      "timeline": "Timeline"
+    },
+    "about": [
+      "I founded Snaplink, a photographer-matching platform, and ran it as CEO for a year and a half. I recruited 50 photographers to validate the service, worked with a developer and a designer to launch the app on both app stores, and grew corporate event-photography sales from 2 pilot jobs to 10 contracted shoots worth about 6.2M KRW. I wrote the proposals and contracts, negotiated the prices, and handled tax invoices and payouts myself.",
+      "The approach was simple: sell small first to validate, show the process openly to earn trust, and use AI to handle or automate simple and repetitive work. The same approach filled an offline event, planned in two weeks, with 57 paying attendees; and by writing the business plans and pitching myself, I won seven awards at startup competitions, including four Grand Prizes.",
+      "I want to turn this experience into revenue for a company in a business development or sales role."
+    ],
+    "education": {
+      "rows": [
+        { "period": "Mar 2025 – Aug 2027 (expected)", "school": "Hankuk University of Foreign Studies (HUFS)", "major": "Major in Global Business & Technology (BBA) · Minor in International Economics and Law", "note": "Transfer admission · GPA 4.2 / 4.5" },
+        { "period": "Mar 2024", "school": "Academic Credit Bank System", "major": "Business Administration (Associate degree)", "note": "Completed during military service" },
+        { "period": "Mar 2021 – Feb 2022", "school": "Korea Tourism College", "major": "Hotel Culinary Arts", "note": "Withdrew · career change" }
+      ],
+      "detailsTitle": "Education details",
+      "details": [
+        "Admitted through a 100% English-proficiency transfer exam after 313 days of 60+ study hours per week, starting right after military discharge",
+        "Selected for a double major in International Economics and Law after a 4.08 first-semester GPA; cumulative 4.2 since · converted to a minor in the final semester",
+        "Leave of absence in Spring 2026 to focus on Snaplink and the AURA project"
+      ]
+    },
+    "experience": [
+      {
+        "id": "snaplink",
+        "name": "Snaplink",
+        "org": "Moment Studio · registered sole proprietorship",
+        "role": "Founder & CEO · Product Lead",
+        "period": "May 2025 – Dec 2026",
+        "summary": "A matching app connecting clients with snap photographers, plus a corporate event-photography agency run on the platform's photographer network",
+        "logo": "assets/img/snaplink-logo.svg",
+        "wordmark": "assets/img/snaplink-wordmark.svg",
+        "highlights": [
+          "Led the product — worked with a developer and a designer to turn the MVP into an app, launched on App Store and Google Play in Feb 2026 (240 users, 38 active photographers)",
+          "Built corporate event-photography sales — won side-photography work at a large COEX event by pitching tailored proposals. Validated with 2 pilot jobs, then signed a 4-session package with the event agency, followed by a 4-session renewal: 10 shoots, ~6.2M KRW in total; raised the per-session price from 600,000 to 750,000 KRW at renewal",
+          "Contracts and finance — drafted contracts for both clients and photographers; after registering the business (Jul 2026), issued tax invoices, filed VAT and settled payouts without an accountant",
+          "Ran a network of 38 photographers and a 4-person team — kept the current team together for over a year through two full turnovers",
+          "Entered 10 startup competitions and programs: 7 awards incl. 4 Grand Prizes · selected as a HUFS student startup team and incubated at HUFS startup platform"
+        ],
+        "links": [
+          { "label": "App Store", "href": "https://apps.apple.com/kr/app/id6756947156" },
+          { "label": "Google Play", "href": "https://play.google.com/store/apps/details?id=com.revede.snaplink" },
+          { "label": "snaplink.run", "href": "https://www.snaplink.run" }
+        ],
+        "facts": [
+          ["Entity", "Moment Studio (sole proprietorship)"],
+          ["Registered", "Jul 20, 2026"],
+          ["App launch", "Feb 5, 2026 · App Store, Google Play"],
+          ["Users · photographers", "240 · 38 active photographers"],
+          ["B2B event shoots", "10 · 4 contracts · ~6.2M KRW total (incl. VAT)"],
+          ["Incubation", "HUFS startup platform (HUFS student startup team)"]
+        ],
+        "images": [
+          { "src": "assets/img/app-home.jpg", "caption": "Home — AI photographer search and event-photography banner" },
+          { "src": "assets/img/app-search.jpg", "caption": "Search — filters by shoot type, region, price and gender" },
+          { "src": "assets/img/app-profile.jpg", "caption": "Photographer profile — packages, portfolio, booking" },
+          { "src": "assets/img/app-booking-1.jpg", "caption": "Booking — date and time" },
+          { "src": "assets/img/app-booking-2.jpg", "caption": "Booking — region and shoot options" },
+          { "src": "assets/img/snaplink-card.jpg", "caption": "Snaplink business card" }
+        ],
+        "blocks": [
+          { "title": "Why", "items": ["Clients had nowhere to search, compare and book snap photographers other than Instagram DMs; photographers had no channel beyond personal social media to reach clients", "Built a matching and booking app for both sides, and ran an agency brokering corporate event photography through the platform's photographer network"] },
+          { "title": "Two businesses", "items": ["App — recruited 50 photographers on a web/community MVP first, then wrote the product spec and worked with the developer and designer to ship the app; wrote the terms of service and privacy policy and took it through both app stores", "Agency — took inbound requests from companies and organizations, scoped them, matched photographers and signed contracts with both sides; provided clients with attendance management and quality review"] }
+        ],
+        "table": {
+          "title": "Event-photography contract history",
+          "head": ["Stage", "Scope", "Value", "Notes"],
+          "rows": [
+            ["Pilot 1", "1 event shoot", "150,000 KRW", "30,000 KRW discount in exchange for review & feedback data"],
+            ["Pilot 2", "1 event shoot", "145,000 KRW", "Minimal margin, service validation"],
+            ["Business registration", "Moment Studio · Jul 2026", "–", "Set up tax-invoice issuance"],
+            ["Contract 1", "4 sessions × 3 nights / 4 days", "2,640,000 KRW (incl. VAT, 600,000 per session)", "~400,000 KRW net profit"],
+            ["Contract 2", "4 additional sessions (renewal)", "3,300,000 KRW (incl. VAT, 750,000 per session)", "25% price increase · ~600,000 KRW net profit · in progress"]
+          ]
+        },
+        "roles": [
+          { "title": "Planning · Product", "items": ["Designed the service concept and revenue model; owned feature priorities and the schedule", "Wrote screen designs and product specs, worked with the developer and designer through launch", "Wrote the terms of service and privacy policy; listed the app on both stores"] },
+          { "title": "Sales · Contracts", "items": ["Wrote a tailored proposal for each company or organization, negotiated terms and drafted the contracts myself", "Won side-photography work at a large COEX event through proposal-driven sales; signed a 4-session contract with the event agency and a 4-session renewal", "Designed a two-way contract structure (client–photographer): 2 pilots + two 4-session contracts, 10 shoots in total", "Raised the per-session price from 600,000 to 750,000 KRW at renewal, based on delivered quality"] },
+          { "title": "Operations · HR", "items": ["Managed a network of 38 photographers: matching, attendance and quality control per event", "Recruited and motivated team members; kept the current team together for over a year through two full turnovers"] },
+          { "title": "Finance · Tax", "items": ["Issued tax invoices, filed VAT and settled photographer payouts myself", "Funded operations entirely from prize money and startup grants — no outside capital"] }
+        ],
+        "retro": {
+          "title": "Looking back",
+          "lead": "A project that taught me an idea born from a personal inconvenience can land in a market that is too small",
+          "items": [
+            "Small snap-photography market: marketing did little to grow the user base. The agency was profitable, but demand was irregular",
+            "Decided to run through December 2026 and then close. Next idea: validate market size and willingness to pay before building",
+            "Biggest asset: having personally run every part of a business — planning, sales, contracts, tax and team operations"
+          ]
+        }
+      }
+    ],
+    "projects": [
+      {
+        "id": "aura",
+        "name": "AURA",
+        "subtitle": "Offline networking party for introverts",
+        "type": "Side project",
+        "role": "Co-planner · Lead operator",
+        "period": "May – Jun 2026",
+        "result": "Two paid offline events planned in two weeks · 57 attendees · ~2× ticket price at the second event",
+        "logo": "assets/img/aura-logo.jpg",
+        "images": [{ "src": "assets/img/aura-event.jpg", "caption": "At the event — faces blurred as agreed with attendees" }],
+        "quote": "\"Who would pay to go to a party thrown by nobodies?\" — Two weeks later, 28 people had.",
+        "table": {
+          "head": ["", "Event 1", "Event 2"],
+          "rows": [
+            ["Date", "May 28, 2026", "Jun 25, 2026"],
+            ["Venue", "Mohyeon, Yongin", "Hoegi, Seoul"],
+            ["Attendees", "28", "29"],
+            ["Ticket", "25,000 KRW", "49,000 KRW (Part 1: 33,000 + Part 2: 16,000)"]
+          ]
+        },
+        "blocks": [
+          { "title": "Background", "items": ["Side project with a fixed scope of two events, started to test an offline business idea firsthand", "Designed so introverts could join comfortably, unlike networking events built around extroverts"] },
+          { "title": "Problem and response", "items": ["No registered business, no affiliation — early promotion drew \"Is this a cult or a pyramid scheme?\" and friends said nobody would come", "Showed everything instead of hiding: posted ordering and preparation on Instagram as it happened, answered every question one by one", "Venue, planning, procurement and marketing done within two weeks; first event held"] },
+          { "title": "Results", "items": ["Event 1: 28 attendees, roughly break-even after buying all supplies new", "Event 2: 29 attendees at about twice the ticket price, over 70% staying for Part 2 · ~100,000 KRW net profit excluding a goodwill spend at the end", "Closed as planned after the two events"] },
+          { "title": "What I did", "items": ["Overall planning and meetings, venue booking and contracts, procurement", "Instagram marketing, attendee support, settlement, on-site hosting", "Landing page built with AI coding tools"] }
+        ]
+      },
+      {
+        "id": "samchully",
+        "name": "Market penetration and trust-building strategy for Samchully EV",
+        "subtitle": "Official BYD dealer · Marketing Strategy Practice industry project",
+        "type": "Industry project",
+        "role": "Team leader (4-person team)",
+        "period": "Sep – Dec 2025",
+        "result": "Presented the final strategy to the Division Director and marketing team at the Yeouido HQ · course grade A+",
+        "logo": null,
+        "images": [
+          { "src": "assets/img/samchully-cover.jpg", "caption": "Cover of the final deck" },
+          { "src": "assets/img/samchully-strategy.jpg", "caption": "Diagnosis — the four walls holding BYD back" }
+        ],
+        "quote": null,
+        "table": {
+          "head": ["Item", "Detail"],
+          "rows": [
+            ["Course", "Marketing Strategy Practice (HUFS GBT)"],
+            ["Partner", "Samchully EV — official dealer of BYD electric vehicles in Korea"],
+            ["Role", "Team leader (4-person team)"],
+            ["Final pitch", "Dec 19, 2025 at Samchully EV HQ, Yeouido · Division Director and marketing team"],
+            ["Grade", "A+"]
+          ]
+        },
+        "blocks": [
+          { "title": "The brief", "items": ["Using real sales and customer data from Samchully EV, develop a one-semester marketing strategy to grow BYD electric-vehicle sales in Korea"] },
+          { "title": "The strategy", "items": ["Diagnosis — Korean buyers calculate before they value, and BYD's problem is evidence, not specs. The barriers to purchase came down to four walls: no experience, anxiety, invisibility and uncertainty", "Direction — become a company that turns distrust into trust, not just one that sells cars: a 'trust strategy'", "Execution — five programs (a new test-drive paradigm, pop-ups, a B2B taxi energy lounge, a 'world's largest power bank' BTL campaign and a residual-value guarantee) with a quarterly 2026 roadmap"] },
+          { "title": "Outcome", "items": ["Presented in person to the Division Director and marketing managers at the Yeouido headquarters", "A+ in Marketing Strategy Practice"] }
+        ]
+      }
+    ],
+    "awards": {
+      "lead": "4 Grand Prizes · 2 awards · 2 selections · 4 programs. Click an item to expand.",
+      "items": [
+        { "tier": "grand", "title": "Grand Prize, IR Pitching — PICK YOUR IDEA, university startup competition", "host": "HUFS Startup Club MOVE / Seoul AI Hub", "date": "Jul 3, 2025", "project": "Snaplink", "image": "assets/img/pyi-award.jpg", "desc": "" },
+        { "tier": "grand", "title": "Grand Prize & Special Award — IL-CHOK-JUK-BAL startup competition", "host": "Startup clubs of HUFS (MOVE), Kyung Hee Univ. (FLIP) and Univ. of Seoul (Tokkibal)", "date": "Dec 6, 2025", "project": "Snaplink", "image": null, "images": [{ "src": "assets/img/ilchok-pitch.jpg", "caption": "Pitch" }, { "src": "assets/img/ilchok-award.jpg", "caption": "Grand Prize & Special Award" }], "desc": "Grand Prize and Special Award at the same competition · Seoul AI Hub" },
+        { "tier": "grand", "title": "Grand Prize — G-RISE Startup Idea Competition", "host": "Hankuk University of Foreign Studies / G-RISE", "date": "Dec 5, 2025", "project": "Lean Smart Campus", "image": null, "images": [{ "src": "assets/img/grise-idea-award.jpg", "caption": "Award ceremony" }, { "src": "assets/img/lean-campus-cover.jpg", "caption": "Cover of the deck" }], "desc": "Theme: AI-based campus innovation · entry prepared specifically for this competition — easing the traffic gridlock around campus caused by autumn visitors, with congestion prediction from existing Wi-Fi and parking data and dynamic parking fees" },
+        { "tier": "grand", "title": "Grand Prize, Platform Track — SYNC, ideathon of 8 Seoul universities", "host": "Hosted by HUFS MOVE with Soongsil Univ. SYNERGY", "date": "Apr 4, 2026", "project": "TIO", "image": null, "images": [{ "src": "assets/img/sync-pitch.jpg", "caption": "Pitching TIO" }, { "src": "assets/img/sync-award.jpg", "caption": "Platform Track Grand Prize" }, { "src": "assets/img/tio-cover.jpg", "caption": "Cover of the deck" }], "desc": "Participating universities: Kangnam, Konkuk, Kyung Hee, Dongguk, Sogang, Univ. of Seoul, Soongsil, HUFS · 4-person team with students from other universities · entry TIO — a verification-based AI résumé platform for Vietnam's hiring market" },
+        { "tier": "award", "title": "Second Prize — Odyssey-X Global IR Pitching", "host": "Rakuten Symphony / University of Seoul", "date": "May – Jun 2026", "project": "Snaplink", "image": null, "images": [{ "src": "assets/img/odyssey-pitch.jpg", "caption": "Demo day pitch" }, { "src": "assets/img/odyssey-award.jpg", "caption": "Second Prize" }], "desc": "Two-month startup program, then an award at the final demo day · Director's Award, University of Seoul Startup Support Center" },
+        { "tier": "award", "title": "Top Prize (Excellence Award) — G-RISE × College of Business and Economics Startup Business Model Competition", "host": "Hankuk University of Foreign Studies / G-RISE", "date": "Nov 20, 2025", "project": "Snaplink", "image": null, "images": [{ "src": "assets/img/grise-bm-pitch.jpg", "caption": "Final-round pitch" }, { "src": "assets/img/grise-bm-award.jpg", "caption": "Award ceremony" }], "desc": "" },
+        { "tier": "selected", "title": "Selected as a HUFS Student Startup Team · incubated at HUFS startup platform", "host": "HUFS Global Startup Support Center", "date": "Feb 2026", "project": "Snaplink", "image": null, "desc": "" },
+        { "tier": "selected", "title": "Selected — Seoul AI Young Forum, 1.5M KRW grant", "host": "Seoul AI Hub", "date": "Nov 14, 2025", "project": "Snaplink", "image": null, "images": [{ "src": "assets/img/aiforum-ir.jpg", "caption": "IR pitch" }, { "src": "assets/img/aiforum-banner.jpg", "caption": "Banner pitch" }], "desc": "Banner pitch and IR pitch at the forum" },
+        { "tier": "program", "title": "Completed — 2025 Hana Social Venture University", "host": "Hana Financial Group / Ministry of Employment and Labor", "date": "Aug 27, 2025", "project": "Snaplink", "image": null, "desc": "" },
+        { "tier": "program", "title": "Completed — SAY Track", "host": "Seoul AI Hub", "date": "Aug 21, 2025", "project": "Snaplink", "image": null, "desc": "" },
+        { "tier": "program", "title": "Completed — Startup Young Ground", "host": "Achieve Moment / MOVE", "date": "Jul 24, 2025", "project": "Snaplink", "image": null, "desc": "" },
+        { "tier": "program", "title": "Completed — HUFS Startup Club MOVE", "host": "Hankuk University of Foreign Studies", "date": "Mar – Dec 2025", "project": "Snaplink", "image": "assets/img/move-certificate.jpg", "desc": "Active as Team REVEDE · where the Snaplink team began" }
+      ]
+    },
+    "certs": [
+      { "name": "Five national craftsman certifications in cooking, confectionery and breadmaking", "date": "2020", "note": "Korean, Western and Chinese cuisine, confectionery, breadmaking (HRD Korea)" },
+      { "name": "Driver's license — Class 1 (large vehicles)", "date": "", "note": "Can drive for field sales" }
+    ],
+    "skills": [
+      { "title": "Business", "items": ["B2B sales · proposals · contract drafting", "Price negotiation · renewals", "Business planning · IR pitching", "Product planning · project management", "Recruiting · team operations (HR)", "Tax · settlements · P&L management"] },
+      { "title": "Tools", "items": ["AI — AI-assisted coding, prompt design, workflow automation", "MS Office · Notion", "Instagram marketing"] },
+      { "title": "Languages", "items": ["Korean — native", "English — conversational; takes courses taught in English; admitted via a 100% English transfer exam · preparing for OPIc"] }
+    ],
+    "skillProofs": [
+      {
+        "title": "AI in practice 1 — an image-composition correction tool for Snaplink (2026)",
+        "blocks": [
+          { "title": "Design", "items": ["To auto-refine the composition of photographers' uploads without training our own model, designed an agent pipeline around Nano Banana (Google's Gemini image model)", "Step 1: a prompt that inspects the photo stage by stage and analyzes aesthetic flaws → Step 2: a prompt that pinpoints exactly what needs fixing → Step 3: apply the fixes and re-render a natural composition", "A loop that sends the image back to the right step whenever a generated region looks unnatural or drifts from the original"] },
+          { "title": "Outcome", "items": ["Owned the idea and the design; our developer built it. A working tool, but kept out of the product because of API cost and processing time"] }
+        ]
+      },
+      {
+        "title": "AI in practice 2 — automating lesson-material production at an English academy (Oct 2025 – Jan 2026)",
+        "blocks": [
+          { "title": "Situation", "items": ["Teaching assistant at an English academy for middle-school students: lesson materials, report cards, make-up tests", "The biggest time sink: photographing workbook pages, running OCR, then copying each result by hand into the right place — every day"] },
+          { "title": "Solution", "items": ["Before Microsoft 365 had built-in AI, designed a prompt for a chat-based LLM: upload a photo and get only what's needed, already in the required format — collapsing OCR → copy → format into one step", "Documented the prompt as a guideline and shared it with the other assistants, turning a personal shortcut into the team's way of working"] }
+        ]
+      }
+    ],
+    "story": [
+      { "title": "Cooking through my teens", "items": ["Started cooking at the end of 10th grade · five craftsman certifications in 2020", "Years in restaurants and cafés, learning on the floor how to work with customers and colleagues"] },
+      { "title": "Setting a career direction during military service — May 2022 – Nov 2023", "items": ["Reading widely during service made one thing clear: work where I plan things myself and see the results, rather than cooking to a fixed recipe", "Associate degree in business from the base's computer room · the 2023 Army Startup Competition sparked an interest in entrepreneurship"] },
+      { "title": "From the bottom English grade to a transfer admission — 313 days", "items": ["Right after discharge, took on a 100% English-proficiency transfer exam with almost no grammar foundation", "6+ hours a day, 60+ hours a week, for 313 days — admitted to HUFS Global Business & Technology"] }
+    ],
+    "timeline": [
+      ["2020", "Five craftsman certifications in cooking, confectionery and breadmaking"],
+      ["Mar 2021 – Feb 2022", "Korea Tourism College, Hotel Culinary Arts"],
+      ["May 2022 – Nov 2023", "Army service · associate degree in business · Army Startup Competition"],
+      ["Dec 2023 – Feb 2025", "313 days of transfer-exam preparation"],
+      ["Mar 2025", "Transferred to HUFS GBT · joined startup club MOVE"],
+      ["May 2025", "Started Snaplink"],
+      ["Jul – Dec 2025", "Grand Prize at PICK YOUR IDEA · Top Prize at G-RISE BM Competition · Grand Prize at G-RISE Idea Competition · Grand Prize at IL-CHOK-JUK-BAL"],
+      ["Sep – Dec 2025", "Team leader, Samchully EV marketing strategy project"],
+      ["Feb 2026", "Snaplink app launch · selected as a HUFS student startup team, incubated at HUFS startup platform"],
+      ["Apr – Jun 2026", "Grand Prize at SYNC · Second Prize at Odyssey-X · two AURA events"],
+      ["Jul 2026", "Registered Moment Studio · first package contract for event photography"],
+      ["Dec 2026", "Snaplink operations end"],
+      ["Aug 2027", "Graduation (expected)"]
+    ]
+  }
+}
