@@ -47,7 +47,7 @@
     ],
     "education": {
       "rows": [
-        { "period": "2025.03 – 2027.08 (졸업 예정)", "school": "한국외국어대학교", "major": "주전공 Global Business & Technology (경영학사) · 부전공 국제통상학", "note": "편입 · 학점 4.2 / 4.5" },
+        { "period": "2025.03 – 2027.08 (졸업 예정)", "school": "한국외국어대학교", "major": "Global Business & Technology (경영학사) · 국제통상학 (부)", "note": "편입 · 학점 4.2 / 4.5" },
         { "period": "2024.03", "school": "학점은행제", "major": "경영 (전문학사)", "note": "군 복무 중 이수" },
         { "period": "2021.03 – 2022.02", "school": "한국관광대학교", "major": "호텔조리과", "note": "중퇴 · 진로 전환" }
       ],
@@ -70,8 +70,8 @@
         "wordmark": "assets/img/snaplink-wordmark.svg",
         "highlights": [
           "서비스 기획 총괄 — 개발자·디자이너와 협업해 MVP를 앱으로 전환하고 2026.02 App Store·Google Play에 동시 출시 (가입자 240명, 활동 작가 38명)",
-          "기업 행사촬영 영업 — 기업·단체별 맞춤 제안서로 직접 영업해 코엑스 대형 행사의 사이드 촬영을 수주. 파일럿 2건으로 검증한 뒤 해당 행사 시행사와 4회차 묶음 계약, 4회차 재계약까지 이어 총 10회·누적 약 624만 원. 재계약 때 회당 단가를 60만 원에서 75만 원으로 올려 받음",
-          "계약·재무 — 클라이언트와 작가 양쪽의 계약서를 직접 작성, 사업자 등록(2026.07) 후 세금계산서 발행·부가세 신고·작가 정산을 세무사 없이 처리",
+          "기업 행사촬영 영업 — 기업·단체별 맞춤 제안서로 직접 영업해 코엑스 대형 행사의 사이드 촬영을 수주. 파일럿 2건으로 검증한 뒤 해당 행사 시행사와 4회차 묶음 계약, 4회차 재계약까지 이어 총 10회·누적 약 624만 원. 재계약 시 회당 단가를 60만 원에서 75만 원으로 인상",
+          "계약·세무 — 클라이언트와 작가 양쪽의 계약서를 직접 작성, 사업자 등록(2026.07) 후 세금계산서 발행과 작가 정산을 세무사 없이 처리",
           "작가 38명 네트워크와 4인 팀 운영 — 팀이 두 차례 바뀌는 고비를 넘기고 현 팀을 1년 이상 유지",
           "창업경진대회·프로그램 10개 참가, 대상 4회 포함 입상 7회 · 한국외대 학생창업팀 선정, HUFS startup platform 입주"
         ],
@@ -108,7 +108,7 @@
             "title": "두 개의 사업",
             "items": [
               "앱 — 웹·커뮤니티 형태의 MVP에서 작가 50명을 먼저 모은 뒤, 개발자·디자이너에게 기획안을 전달하고 협업하며 앱으로 전환. 이용약관과 개인정보처리방침을 작성하고 양대 스토어 출시까지 진행",
-              "에이전시 — 기업·단체의 행사촬영 문의를 받아 조건을 정리하고 작가를 매칭, 클라이언트와 작가 양쪽과 계약. 클라이언트에게는 작가 근태 관리와 결과물 검수를 제공"
+              "에이전시 — 기업·단체의 행사촬영 문의를 받아 조건을 정리하고 작가를 매칭. 클라이언트·작가 양쪽 계약서 작성, 세금계산서 발행, 작가 근태 관리와 결과물 검수, 노쇼 등 리스크 관리까지 운영 전반을 수행"
             ]
           }
         ],
@@ -116,7 +116,7 @@
           "title": "행사촬영 계약 히스토리",
           "head": ["단계", "내용", "금액", "비고"],
           "rows": [
-            ["파일럿 1", "행사촬영 1건", "15만 원", "리뷰·피드백 데이터 제공을 조건으로 3만 원 할인"],
+            ["파일럿 1", "행사촬영 1건", "15만 원", "리뷰·피드백 수집 목적"],
             ["파일럿 2", "행사촬영 1건", "14.5만 원", "마진 최소화, 서비스 검증"],
             ["사업자 등록", "모먼트 스튜디오 · 2026.07", "–", "세금계산서 발행 체계 구축"],
             ["본계약 1", "3박 4일 × 4회차", "264만 원 (VAT 포함, 회당 60만 원)", "순이익 약 40만 원"],
@@ -127,11 +127,11 @@
           { "title": "기획 · PM", "items": ["서비스 컨셉과 수익 모델 설계, 기능 우선순위와 일정 관리", "화면 설계와 기획안 작성, 개발자·디자이너와 협업해 출시까지 진행", "이용약관·개인정보처리방침 작성, 양대 스토어 등록"] },
           { "title": "영업 · 계약", "items": ["기업·단체별 맞춤 제안서 제작, 조건 협의, 계약서 직접 작성", "제안서 영업으로 코엑스 대형 행사의 사이드 촬영을 수주, 행사 시행사와 4회차 계약 후 4회차 재계약", "클라이언트–작가 양방향 계약 구조 설계 (파일럿 2건 + 4회차 계약 2건, 총 10회)", "재계약 시 촬영 품질을 근거로 회당 단가 60만 원 → 75만 원 인상"] },
           { "title": "운영 · HR", "items": ["작가 38명 네트워크 관리, 행사별 매칭과 근태·품질 관리", "팀원 채용과 동기부여 — 팀이 두 차례 바뀌는 고비를 넘기고 현 팀을 1년 이상 유지"] },
-          { "title": "재무 · 세무", "items": ["세금계산서 발행, 부가가치세 신고, 작가 정산을 직접 수행", "대회 상금과 창업지원금으로 외부 자본 없이 운영"] }
+          { "title": "재무 · 세무", "items": ["세금계산서 발행과 작가 정산을 직접 수행", "대회 상금과 창업지원금으로 외부 자본 없이 운영"] }
         ],
         "retro": {
           "title": "돌아보며",
-          "lead": "개인의 불편에서 출발한 아이템은 시장이 작을 수 있다는 것을 배운 프로젝트",
+          "lead": "직접 겪은 불편에서 출발했지만, 시장 규모는 따로 검증해야 한다는 것을 배운 경험",
           "items": [
             "스냅사진 시장 규모가 작아 마케팅 대비 이용자 증가가 제한적. 에이전시는 수익은 났지만 수요가 불규칙",
             "2026년 12월까지 운영 후 정리 결정. 다음 아이템은 시장 크기와 지불 의사를 먼저 검증하고 시작",
@@ -165,7 +165,7 @@
           { "title": "기획 배경", "items": ["오프라인 비즈니스를 직접 시험해 보기 위해 두 번의 행사로 기간을 정해 두고 시작한 사이드 프로젝트", "외향적인 사람을 전제로 한 기존 네트워킹 모임과 달리, 내향인이 편하게 올 수 있는 구조로 설계"] },
           { "title": "문제와 대응", "items": ["사업자도 소속도 없는 주최자라 홍보 초기에 \"사이비·다단계 아니냐\"는 반응, 주변에서도 \"아무도 안 올 것\"이라는 만류", "숨기는 대신 전부 공개 — 인스타그램에 물품 발주와 준비 과정을 그대로 올리고 들어오는 질문에 하나하나 답변", "대관·기획·발주·마케팅을 2주 안에 마치고 첫 행사 개최"] },
           { "title": "결과", "items": ["1회차 28명 참가, 물품 초기 구매로 손익은 0에 근접", "2회차 티켓 단가 약 2배에 29명 참가, 70% 이상이 2부까지 잔류 · 마무리 비용 제외 시 순이익 약 10만 원", "계획한 두 번의 행사 후 종료"] },
-          { "title": "맡은 일", "items": ["전체 기획과 회의 주관, 장소 대관과 계약서 작성, 물품 준비", "인스타그램 마케팅, 참가자 응대, 정산, 행사 당일 진행", "AI 코딩 도구로 랜딩 페이지 제작"] }
+          { "title": "맡은 일", "items": ["전체 기획과 회의 주관, 장소 대관과 계약서 작성, 물품 준비", "인스타그램 마케팅, 참가자 응대, 정산, 행사 당일 진행", "행사 당일 사용한 참가자 매칭·쪽지 시스템을 AI 코딩 도구로 직접 제작"] }
         ]
       },
       {
@@ -222,15 +222,19 @@
     ],
     "skills": [
       { "title": "비즈니스", "items": ["B2B 영업 · 제안 · 계약서 작성", "단가 협상 · 재계약", "사업계획서 · IR 피칭", "서비스 기획 · PM", "채용 · 팀 운영 (HR)", "세무 · 정산 · 손익 관리"] },
-      { "title": "도구", "items": ["AI 활용 — 바이브코딩, 프롬프트 설계, 업무 자동화", "MS Office · Notion", "Instagram 마케팅"] },
-      { "title": "언어", "items": ["한국어 — 모국어", "영어 — 일상 회화 가능, 원어 강의 수강, 영어 100% 편입 전형 합격 · OPIc 준비 중"] }
+      { "title": "도구", "items": ["AI 활용 — 바이브코딩, 프롬프트 설계, 업무 자동화", "AI 문서 작업 — Manus로 발표자료 제작, MS Office에 AI 플러그인을 연동해 문서·데이터 작업 처리", "MS Office · Notion · Figma (기본)", "Instagram 마케팅"] },
+      { "title": "언어", "items": ["한국어 — 모국어", "영어 — 일상 회화 가능, 영어 100% 편입 전형 합격 · OPIc 준비 중"] }
     ],
     "skillProofs": [
       {
-        "title": "AI 활용 사례 1 — 스냅링크 이미지 구도 보정 AI 툴 기획 (2026)",
+        "title": "AI 활용 사례 1 — 스냅링크 이미지 구도 보정 AI 기능 기획 (2026)",
         "blocks": [
-          { "title": "기획", "items": ["작가가 올린 사진의 구도를 자동으로 다듬어 주는 기능을 자체 모델 개발 없이 구현하기 위해, 나노바나나(Gemini 이미지 모델)와 에이전트 구조로 설계", "1단계 사진을 단계별로 살펴 미학적 결함을 분석하는 프롬프트 → 2단계 수정이 필요한 부분을 정확히 짚어내는 프롬프트 → 3단계 수정 사항을 반영해 구도를 자연스럽게 보정", "생성된 영역이 어색하거나 원본과 달라지면 필요한 단계로 되돌아가는 루프 구조"] },
-          { "title": "결과", "items": ["아이디어와 기획을 맡고 개발자가 구현. 동작하는 툴까지 만들었으나 API 비용과 처리 시간 때문에 정식 기능으로는 넣지 않음"] }
+          { "title": "기획 (본인)", "items": ["작가가 올린 사진의 구도를 자동으로 다듬어 주는 기능을, AI 모델을 새로 개발하지 않고 기존 모델들을 에이전트 구조로 조합해 구현하는 방식으로 기획", "1단계 사진을 단계별로 살펴 미학적 결함을 분석하는 프롬프트 → 2단계 수정이 필요한 부분을 정확히 짚어내는 프롬프트 → 3단계 수정 사항을 반영해 구도를 자연스럽게 보정", "생성된 영역이 어색하거나 원본과 달라지면 필요한 단계로 되돌아가는 루프 구조를 설계해 개발자에게 요구사항으로 전달"] },
+          { "title": "구현 (팀 개발자)", "items": ["기획안을 바탕으로 팀 개발자가 워크플로와 단계별 실행 확인 도구를 개발", "OpenRouter로 분석·검수용 언어 모델(Claude Sonnet 4.5)과 이미지 생성 모델(Gemini 3 Pro Image)을 연결", "원본·레퍼런스 분석 → 차이 도출 → 프롬프트 생성 → 이미지 생성 → 검수 → 통과 또는 재시도(최대 3회) 순서로 동작"] },
+          { "title": "결과", "items": ["동작하는 툴까지 완성했으나 API 비용과 처리 시간 때문에 정식 기능으로는 넣지 않음"] }
+        ],
+        "images": [
+          { "src": "assets/img/retouch-workflow.jpg", "caption": "구도 보정 워크플로 화면 (구현: 팀 개발자) — 왼쪽은 앱 화면 시안, 오른쪽은 단계별 실행 확인 도구" }
         ]
       },
       {
@@ -243,7 +247,7 @@
     ],
     "story": [
       { "title": "요리로 시작한 10대", "items": ["고1 말 요리 시작 · 2020년 한 해에 기능사 5종 취득", "식당·카페 현장에서 손님과 동료를 상대하며 일하는 법을 몸으로 익힌 시기"] },
-      { "title": "군 복무 중 진로 방향 설정 — 2022.05 – 2023.11", "items": ["복무 중 독서를 이어가며, 정해진 레시피대로 만드는 일보다 스스로 기획하고 결과를 확인하는 일을 하고 싶다는 방향이 분명해짐", "사이버지식정보방에서 학점은행제 경영 전문학사 이수 · 2023 육군 창업경진대회 참가를 계기로 창업에 관심"] },
+      { "title": "군 복무 중 진로 방향 설정 — 2022.05 – 2023.11", "items": ["복무 중 독서를 이어가며, 매일 똑같이 정해진 레시피대로만 조리하는 것보다 스스로 기획하고 결과를 확인하는 일을 하고 싶다는 방향이 분명해짐", "사이버지식정보방에서 학점은행제 경영 전문학사 이수 · 2023 육군 창업경진대회 참가를 계기로 창업에 관심"] },
       { "title": "영어 7등급에서 편입까지 — 313일", "items": ["전역 직후 기본 문법도 모르는 상태에서 영어 100% 편입 전형에 도전", "매일 6시간 이상, 주 60시간 이상을 313일간 지속해 한국외국어대학교 Global Business & Technology 학부 합격"] }
     ],
     "timeline": [
@@ -257,7 +261,8 @@
       ["2025.09 – 12", "삼천리EV 마케팅 전략 프로젝트 팀장"],
       ["2026.02", "스냅링크 앱 출시 · 한국외대 학생창업팀 선정, HUFS startup platform 입주"],
       ["2026.04 – 06", "SYNC 대상 · Odyssey-X Second Prize · AURA 2회 개최"],
-      ["2026.07", "모먼트 스튜디오 사업자 등록 · 행사촬영 본계약"],
+      ["2026.07", "모먼트 스튜디오 사업자 등록"],
+      ["2026.08 – 10", "기업 행사촬영 4회차 계약 · 4회차 재계약"],
       ["2026.12", "스냅링크 운영 종료"],
       ["2027.08", "졸업 예정"]
     ]
@@ -309,7 +314,7 @@
     ],
     "education": {
       "rows": [
-        { "period": "Mar 2025 – Aug 2027 (expected)", "school": "Hankuk University of Foreign Studies (HUFS)", "major": "Major in Global Business & Technology (BBA) · Minor in International Economics and Law", "note": "Transfer admission · GPA 4.2 / 4.5" },
+        { "period": "Mar 2025 – Aug 2027 (expected)", "school": "Hankuk University of Foreign Studies (HUFS)", "major": "Global Business & Technology (BBA) · International Economics and Law (minor)", "note": "Transfer admission · GPA 4.2 / 4.5" },
         { "period": "Mar 2024", "school": "Academic Credit Bank System", "major": "Business Administration (Associate degree)", "note": "Completed during military service" },
         { "period": "Mar 2021 – Feb 2022", "school": "Korea Tourism College", "major": "Hotel Culinary Arts", "note": "Withdrew · career change" }
       ],
@@ -333,7 +338,7 @@
         "highlights": [
           "Led the product — worked with a developer and a designer to turn the MVP into an app, launched on App Store and Google Play in Feb 2026 (240 users, 38 active photographers)",
           "Built corporate event-photography sales — won side-photography work at a large COEX event by pitching tailored proposals. Validated with 2 pilot jobs, then signed a 4-session package with the event agency, followed by a 4-session renewal: 10 shoots, ~6.2M KRW in total; raised the per-session price from 600,000 to 750,000 KRW at renewal",
-          "Contracts and finance — drafted contracts for both clients and photographers; after registering the business (Jul 2026), issued tax invoices, filed VAT and settled payouts without an accountant",
+          "Contracts and tax — drafted contracts for both clients and photographers; after registering the business (Jul 2026), issued tax invoices and settled payouts without an accountant",
           "Ran a network of 38 photographers and a 4-person team — kept the current team together for over a year through two full turnovers",
           "Entered 10 startup competitions and programs: 7 awards incl. 4 Grand Prizes · selected as a HUFS student startup team and incubated at HUFS startup platform"
         ],
@@ -360,13 +365,13 @@
         ],
         "blocks": [
           { "title": "Why", "items": ["Clients had nowhere to search, compare and book snap photographers other than Instagram DMs; photographers had no channel beyond personal social media to reach clients", "Built a matching and booking app for both sides, and ran an agency brokering corporate event photography through the platform's photographer network"] },
-          { "title": "Two businesses", "items": ["App — recruited 50 photographers on a web/community MVP first, then wrote the product spec and worked with the developer and designer to ship the app; wrote the terms of service and privacy policy and took it through both app stores", "Agency — took inbound requests from companies and organizations, scoped them, matched photographers and signed contracts with both sides; provided clients with attendance management and quality review"] }
+          { "title": "Two businesses", "items": ["App — recruited 50 photographers on a web/community MVP first, then wrote the product spec and worked with the developer and designer to ship the app; wrote the terms of service and privacy policy and took it through both app stores", "Agency — took inbound requests from companies and organizations, scoped them and matched photographers. Ran the whole operation: contracts with both clients and photographers, tax invoices, photographer attendance and quality review, and risk management such as no-shows"] }
         ],
         "table": {
           "title": "Event-photography contract history",
           "head": ["Stage", "Scope", "Value", "Notes"],
           "rows": [
-            ["Pilot 1", "1 event shoot", "150,000 KRW", "30,000 KRW discount in exchange for review & feedback data"],
+            ["Pilot 1", "1 event shoot", "150,000 KRW", "To collect reviews and feedback"],
             ["Pilot 2", "1 event shoot", "145,000 KRW", "Minimal margin, service validation"],
             ["Business registration", "Moment Studio · Jul 2026", "–", "Set up tax-invoice issuance"],
             ["Contract 1", "4 sessions × 3 nights / 4 days", "2,640,000 KRW (incl. VAT, 600,000 per session)", "~400,000 KRW net profit"],
@@ -377,11 +382,11 @@
           { "title": "Planning · Product", "items": ["Designed the service concept and revenue model; owned feature priorities and the schedule", "Wrote screen designs and product specs, worked with the developer and designer through launch", "Wrote the terms of service and privacy policy; listed the app on both stores"] },
           { "title": "Sales · Contracts", "items": ["Wrote a tailored proposal for each company or organization, negotiated terms and drafted the contracts myself", "Won side-photography work at a large COEX event through proposal-driven sales; signed a 4-session contract with the event agency and a 4-session renewal", "Designed a two-way contract structure (client–photographer): 2 pilots + two 4-session contracts, 10 shoots in total", "Raised the per-session price from 600,000 to 750,000 KRW at renewal, based on delivered quality"] },
           { "title": "Operations · HR", "items": ["Managed a network of 38 photographers: matching, attendance and quality control per event", "Recruited and motivated team members; kept the current team together for over a year through two full turnovers"] },
-          { "title": "Finance · Tax", "items": ["Issued tax invoices, filed VAT and settled photographer payouts myself", "Funded operations entirely from prize money and startup grants — no outside capital"] }
+          { "title": "Finance · Tax", "items": ["Issued tax invoices and settled photographer payouts myself", "Funded operations entirely from prize money and startup grants — no outside capital"] }
         ],
         "retro": {
           "title": "Looking back",
-          "lead": "A project that taught me an idea born from a personal inconvenience can land in a market that is too small",
+          "lead": "It started from a problem I had myself — and taught me that market size has to be validated separately",
           "items": [
             "Small snap-photography market: marketing did little to grow the user base. The agency was profitable, but demand was irregular",
             "Decided to run through December 2026 and then close. Next idea: validate market size and willingness to pay before building",
@@ -415,7 +420,7 @@
           { "title": "Background", "items": ["Side project with a fixed scope of two events, started to test an offline business idea firsthand", "Designed so introverts could join comfortably, unlike networking events built around extroverts"] },
           { "title": "Problem and response", "items": ["No registered business, no affiliation — early promotion drew \"Is this a cult or a pyramid scheme?\" and friends said nobody would come", "Showed everything instead of hiding: posted ordering and preparation on Instagram as it happened, answered every question one by one", "Venue, planning, procurement and marketing done within two weeks; first event held"] },
           { "title": "Results", "items": ["Event 1: 28 attendees, roughly break-even after buying all supplies new", "Event 2: 29 attendees at about twice the ticket price, over 70% staying for Part 2 · ~100,000 KRW net profit excluding a goodwill spend at the end", "Closed as planned after the two events"] },
-          { "title": "What I did", "items": ["Overall planning and meetings, venue booking and contracts, procurement", "Instagram marketing, attendee support, settlement, on-site hosting", "Landing page built with AI coding tools"] }
+          { "title": "What I did", "items": ["Overall planning and meetings, venue booking and contracts, procurement", "Instagram marketing, attendee support, settlement, on-site hosting", "Built the attendee matching and note-passing system used on the day, with AI coding tools"] }
         ]
       },
       {
@@ -472,15 +477,19 @@
     ],
     "skills": [
       { "title": "Business", "items": ["B2B sales · proposals · contract drafting", "Price negotiation · renewals", "Business planning · IR pitching", "Product planning · project management", "Recruiting · team operations (HR)", "Tax · settlements · P&L management"] },
-      { "title": "Tools", "items": ["AI — AI-assisted coding, prompt design, workflow automation", "MS Office · Notion", "Instagram marketing"] },
-      { "title": "Languages", "items": ["Korean — native", "English — conversational; takes courses taught in English; admitted via a 100% English transfer exam · preparing for OPIc"] }
+      { "title": "Tools", "items": ["AI — AI-assisted coding, prompt design, workflow automation", "AI for documents — slide decks with Manus; AI plug-ins in MS Office for document and data work", "MS Office · Notion · Figma (basic)", "Instagram marketing"] },
+      { "title": "Languages", "items": ["Korean — native", "English — conversational; admitted via a 100% English transfer exam · preparing for OPIc"] }
     ],
     "skillProofs": [
       {
         "title": "AI in practice 1 — an image-composition correction tool for Snaplink (2026)",
         "blocks": [
-          { "title": "Design", "items": ["To auto-refine the composition of photographers' uploads without training our own model, designed an agent pipeline around Nano Banana (Google's Gemini image model)", "Step 1: a prompt that inspects the photo stage by stage and analyzes aesthetic flaws → Step 2: a prompt that pinpoints exactly what needs fixing → Step 3: apply the fixes and re-render a natural composition", "A loop that sends the image back to the right step whenever a generated region looks unnatural or drifts from the original"] },
-          { "title": "Outcome", "items": ["Owned the idea and the design; our developer built it. A working tool, but kept out of the product because of API cost and processing time"] }
+          { "title": "Design (mine)", "items": ["Planned a feature that auto-refines the composition of photographers' uploads by combining existing models in an agent pipeline, rather than training a model of our own", "Step 1: a prompt that inspects the photo stage by stage and analyzes aesthetic flaws → Step 2: a prompt that pinpoints exactly what needs fixing → Step 3: apply the fixes and re-render a natural composition", "Specified a loop that sends the image back to the right step whenever a generated region looks unnatural or drifts from the original, and handed it to our developer as requirements"] },
+          { "title": "Build (our developer)", "items": ["Our developer built the workflow and a step-by-step run inspector from the spec", "Connected a language model for analysis and review (Claude Sonnet 4.5) and an image model (Gemini 3 Pro Image) through OpenRouter", "Runs as: analyze original and references → derive the gap → generate prompt → generate image → review → accept or retry (up to 3 attempts)"] },
+          { "title": "Outcome", "items": ["A working tool, but kept out of the product because of API cost and processing time"] }
+        ],
+        "images": [
+          { "src": "assets/img/retouch-workflow.jpg", "caption": "Composition-correction workflow (built by our developer) — app screen mock-up on the left, step-by-step run inspector on the right" }
         ]
       },
       {
@@ -493,7 +502,7 @@
     ],
     "story": [
       { "title": "Cooking through my teens", "items": ["Started cooking at the end of 10th grade · five craftsman certifications in 2020", "Years in restaurants and cafés, learning on the floor how to work with customers and colleagues"] },
-      { "title": "Setting a career direction during military service — May 2022 – Nov 2023", "items": ["Reading widely during service made one thing clear: work where I plan things myself and see the results, rather than cooking to a fixed recipe", "Associate degree in business from the base's computer room · the 2023 Army Startup Competition sparked an interest in entrepreneurship"] },
+      { "title": "Setting a career direction during military service — May 2022 – Nov 2023", "items": ["Reading widely during service made one thing clear: work where I plan things myself and see the results, rather than cooking the same fixed recipes every day", "Associate degree in business from the base's computer room · the 2023 Army Startup Competition sparked an interest in entrepreneurship"] },
       { "title": "From the bottom English grade to a transfer admission — 313 days", "items": ["Right after discharge, took on a 100% English-proficiency transfer exam with almost no grammar foundation", "6+ hours a day, 60+ hours a week, for 313 days — admitted to HUFS Global Business & Technology"] }
     ],
     "timeline": [
@@ -507,7 +516,8 @@
       ["Sep – Dec 2025", "Team leader, Samchully EV marketing strategy project"],
       ["Feb 2026", "Snaplink app launch · selected as a HUFS student startup team, incubated at HUFS startup platform"],
       ["Apr – Jun 2026", "Grand Prize at SYNC · Second Prize at Odyssey-X · two AURA events"],
-      ["Jul 2026", "Registered Moment Studio · first package contract for event photography"],
+      ["Jul 2026", "Registered Moment Studio"],
+      ["Aug – Oct 2026", "4-session event-photography contract · 4-session renewal"],
       ["Dec 2026", "Snaplink operations end"],
       ["Aug 2027", "Graduation (expected)"]
     ]
